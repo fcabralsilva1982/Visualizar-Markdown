@@ -1,0 +1,21 @@
+# Build artifacts
+dist/
+bin/
+obj/
+*.exe
+*.pdb
+*.user
+*.suo
+
+# Temporary workspace folders from local Codex creation
+work/
+outputs/
+
+# OS/editor
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
